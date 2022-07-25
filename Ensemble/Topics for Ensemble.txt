@@ -1,0 +1,15 @@
+Ensemble Technique-
+Bagging
+Boosting
+Stacking
+
+Links :
+>> https://www.analyticsvidhya.com/blog/2021/08/ensemble-stacking-for-machine-learning-and-deep-learning/#related-articles
+>> https://towardsdatascience.com/a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3
+>> https://towardsdatascience.com/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d
+>> https://towardsdatascience.com/the-power-of-ensembles-in-deep-learning-a8900ff42be9
+>> https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/
+
+>> https://towardsdatascience.com/automating-deep-neural-networks-8bc9e4fa1047
+>> https://python.plainenglish.io/what-are-the-feature-transformation-techniques-ba594b523ec4
+>> https://cardanocoti.medium.com/dimensionality-reduction-techniques-7a072109faa6 
