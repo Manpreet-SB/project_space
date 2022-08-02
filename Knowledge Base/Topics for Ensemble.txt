@@ -1,0 +1,46 @@
+Ensemble Technique - Bagging,Boosting & Stacking
+NN - ANN,CNN
+Applied AI - NLP(Bert) & CV(YOLO)
+
+
+Links :
+>> https://www.analyticsvidhya.com/blog/2021/08/ensemble-stacking-for-machine-learning-and-deep-learning/#related-articles
+>> https://towardsdatascience.com/a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3
+>> https://towardsdatascience.com/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d
+>> https://towardsdatascience.com/the-power-of-ensembles-in-deep-learning-a8900ff42be9
+>> https://machinelearningmastery.com/blending-ensemble-machine-learning-with-python/
+
+>> https://towardsdatascience.com/automating-deep-neural-networks-8bc9e4fa1047
+>> https://python.plainenglish.io/what-are-the-feature-transformation-techniques-ba594b523ec4
+>> https://cardanocoti.medium.com/dimensionality-reduction-techniques-7a072109faa6 
+
+
+XAI :
+
+>> https://www.sciencedirect.com/science/article/pii/S2666546822000246
+>> https://towardsdatascience.com/a-brief-overview-of-methods-to-explain-ai-xai-fe0d2a7b05d6
+
+
+Grouped Implementation :
+>> https://medium.com/coders-camp/40-machine-learning-algorithms-with-python-3defd764b961
+>> https://www.kaggle.com/code/aashita/regression-algorithms/notebook
+>> https://www.kaggle.com/code/joparga3/1-machine-learning-classification-algorithms/notebook
+>> https://www.kaggle.com/code/faressayah/practical-introduction-to-10-regression-algorithm?scriptVersionId=85709616
+
+Additional Resources :
+> https://www.kaggle.com/code/rohanc7/ml-algorithms-from-scratch-part-1-regression
+> https://www.kaggle.com/code/rohanc7/ml-algorithms-from-scratch-part-2-classification
+
+
+NN :
+
+
+NLP :
+
+
+CV :
+
+
+
+Testing :
+>> https://medium.com/nmc-techblog/evolution-of-web-testing-strategies-stop-the-monkey-business-16fb63e8c70b
